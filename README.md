@@ -1,2 +1,3 @@
-# augsburg
-NodeSchool chapter for Augsburg, DE
+# Augsburg
+
+website for nodeschool Augsburg
