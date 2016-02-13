@@ -11,6 +11,7 @@ If you want to improve our website, you can find it on the  [gh-pages branch](ht
 ## Resources 
 
 - JavaScript
+  - [Essential JavaScript Links (curated list by Eric Elliot)](https://github.com/ericelliott/essential-javascript-links)
   - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 - Node.js
   - [Docs](https://nodejs.org/en/docs/)
