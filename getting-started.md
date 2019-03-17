@@ -28,7 +28,7 @@ v10.15.3
 
 ### 🍏 macOS
 
-You can [download](https://nodejs.org/dist/v10.15.3/node-v10.15.3.pkg) the official installer
+You can [download](https://nodejs.org/dist/v10.15.3/node-v10.15.3.pkg) the official
 installer from the [nodejs website](https://nodejs.org/).
 
 After the download just open the installer via a double-click and follow the installation process.
@@ -71,7 +71,13 @@ command -v nvm
 
 simply close your current terminal, open a new terminal, and try verifying again.
 
-After the installation, open a terminal and type
+To install the latest lts version of node type
+
+```bash
+nvm install lts/dubnium
+```
+
+Check if node is installed via
 
 ```bash
 node -v
