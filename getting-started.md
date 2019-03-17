@@ -1,8 +1,8 @@
-# Starter Pack
+# Getting Started
 
 > Boost your NodeSchool experience to the next level 🚀
 
-## Install node
+## Install Node
 
 Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine and needed to start the NodeSchool workshops.
 
@@ -85,7 +85,7 @@ v10.15.3
 
 🎉 **Congratulations! You have successfully installed node and are ready to go!** 🎉
 
-## Choose an editor
+## Choose An Editor
 
 The code editor is one of the most important things for a profession developer.
 Depending on your needs you can choose between different free options.
