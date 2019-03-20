@@ -119,3 +119,29 @@ Vim is a improved version of the original VI and a free terminal based text edit
 ### Other Alternatives
 
 There are a lot of IDEs and text editors we haven't talked about. [Sublime Text](<https://www.sublimetext.com/>), [WebStorm](<https://www.jetbrains.com/webstorm/>), [Visual Studio](<https://visualstudio.microsoft.com/>), ... and many more. Despite their greatness, most of them aren't available for free ☹️, but if you already have a copy and are used to them, feel free to use it!
+
+## 🚀 Getting the most out of NodeSchool
+
+Here are some basic tricks to improve your NodeSchool experience and help you to get a better developer.
+
+### Find a partner
+
+It is always better to work in pairs. Try to find a partner at the start of the NodeSchool event. Even if he or she is more experienced than you. You can help and learn from eachother and it is always more fun to do stuff together! 
+
+### Collaborate
+
+Have no partner, but want to share or discuss your solution / experience with others? Don't hesitate! Just do it! There is always not only one correct solution and talking about that is a daily business as a developer. Collaborating with others will also help you thinking about other solutions.
+
+### Ask a Mentor, if you are really stuck
+
+If you feel really stuck and frustrated, don't hesitate to ask one of the mentors for help. They will gladly help you and maybe give you the deciding hint to solve your struggle!
+
+### Connect with other people
+
+Connecting with people is everything! Maybe most of your friends, don't do a lot of programming (maybe no programming at all). Here at NodeSchool you have the chance to connect to people with the same interests, find a mentor or just get to know new people. Share your phone numbers, emails, twitter username, instagram accounts or whatever you like.
+
+### Give Feedback
+
+We always want to improve NodeSchool and help you feel comfortable, so we really appreciate any feedback. Feel free to share your opinions with us anytime!
+
+### 
