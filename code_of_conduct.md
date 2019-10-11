@@ -27,11 +27,12 @@ please contact an organizer immediately.
 
 ### Nodeschool Augsburg
 
-* Organizers: **Names of organizers plus Twitter handles to get in touch**
-* Meetup URL: **URL for meetup, FB group, etc.**
+* Organizers: Peerigon GmbH @peerigon
+* Meetup URL: https://www.meetup.com/de-DE/nodeschool-augsburg/
+* Twitter: @nodeschoolaux
 
 **If you have questions or feedback about this Code of Conduct please contact
-one of the organizers.**
+one of the organizers through meetup/twitter or whatever you see fit.**
 
 The organizers of the above communities developed this Code of Conduct to
 govern their respective events and communication channels. We used [PDX
